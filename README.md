@@ -9,7 +9,7 @@ for the 1 wire interface, connect:
 - CLK to PB2
 - PWR and GND
 
-for the 4 wire interface, connect: 
+for the 4 wire interface, connect: <strong> note that this currently doesn't work </strong> 
 - D0 to PC8
 - CMD to PD2
 - CLK to PB2
